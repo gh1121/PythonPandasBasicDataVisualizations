@@ -1,0 +1,6 @@
+[2023-03-27 22:06:22.025] [remoteagent] [error] Error: Failed Installing Extensions: file:///opt/vscode/extensions/ms-toolsai.jupyter-2023.2.1000481019.vsix
+    at I.installExtensions (/opt/vscode/lib/vscode/out/vs/server/node/server.main.js:83:42)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async /opt/vscode/lib/vscode/out/vs/server/node/server.main.js:140:112722
+    at async B.run (/opt/vscode/lib/vscode/out/vs/server/node/server.main.js:140:112586)
+    at async ae (/opt/vscode/lib/vscode/out/vs/server/node/server.main.js:140:115795)

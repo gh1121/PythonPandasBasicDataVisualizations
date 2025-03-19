@@ -1,0 +1,5 @@
+[2023-03-27 22:06:28.868] [remoteagent] [info] Installing extension: ms-python.vscode-pylance
+[2023-03-27 22:06:32.618] [remoteagent] [info] Extracted extension to /opt/.katacodacode/extensions/.89d8d5cc-88aa-4b88-9cbc-3520786a2ca4: ms-python.vscode-pylance
+[2023-03-27 22:06:32.627] [remoteagent] [info] Renamed to /opt/.katacodacode/extensions/ms-python.vscode-pylance-2022.12.21
+[2023-03-27 22:06:32.630] [remoteagent] [info] Extracting completed. ms-python.vscode-pylance
+[2023-03-27 22:06:32.630] [remoteagent] [info] Extension installed successfully: ms-python.vscode-pylance

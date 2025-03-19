@@ -1,0 +1,5 @@
+[2023-03-27 22:06:26.429] [remoteagent] [info] Installing extension: matklad.rust-analyzer
+[2023-03-27 22:06:27.507] [remoteagent] [info] Extracted extension to /opt/.katacodacode/extensions/.19516ee3-93fb-4f67-8ceb-5a5830785fef: matklad.rust-analyzer
+[2023-03-27 22:06:27.515] [remoteagent] [info] Renamed to /opt/.katacodacode/extensions/matklad.rust-analyzer-0.3.1050
+[2023-03-27 22:06:27.517] [remoteagent] [info] Extracting completed. matklad.rust-analyzer
+[2023-03-27 22:06:27.517] [remoteagent] [info] Extension installed successfully: matklad.rust-analyzer

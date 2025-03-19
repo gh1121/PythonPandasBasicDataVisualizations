@@ -1,0 +1,6 @@
+[2023-03-27 22:06:22.858] [remoteagent] [info] Installing extension: ms-python.python
+[2023-03-27 22:06:23.418] [remoteagent] [warning] Cannot install packed extensions of extension: ms-python.python Can't install 'ms-python.isort' extension because it is not compatible with the current version of code-server (version 1.71.2).
+[2023-03-27 22:06:25.612] [remoteagent] [info] Extracted extension to /opt/.katacodacode/extensions/.9a82e326-be25-491b-98e9-b5ea218618a7: ms-python.python
+[2023-03-27 22:06:25.625] [remoteagent] [info] Renamed to /opt/.katacodacode/extensions/ms-python.python-2022.17.13041013
+[2023-03-27 22:06:25.632] [remoteagent] [info] Extracting completed. ms-python.python
+[2023-03-27 22:06:25.633] [remoteagent] [info] Extension installed successfully: ms-python.python

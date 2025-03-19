@@ -1,0 +1,12 @@
+[2025-03-19T05:03:52.353Z] info  code-server 4.7.1 77bbed48315a7cc275dc05a53d197197928f4b88
+[2025-03-19T05:03:52.355Z] info  Using user-data-dir /opt/.katacodacode/user-data
+[2025-03-19T05:03:52.367Z] info  Using config file ~/.config/code-server/config.yaml
+[2025-03-19T05:03:52.367Z] info  HTTP server listening on http://0.0.0.0:23000/ 
+[2025-03-19T05:03:52.367Z] info    - Authentication is disabled 
+[2025-03-19T05:03:52.367Z] info    - Not serving HTTPS 
+[05:03:53] Extension host agent started.
+[05:04:00] [172.16.72.4][0b06ffab][ManagementConnection] New connection established.
+[05:04:03] [172.16.72.4][621f71b3][ExtensionHostConnection] New connection established.
+[05:04:03] [172.16.72.4][621f71b3][ExtensionHostConnection] <172> Launched Extension Host Process.
+[05:04:31] [172.16.72.4][621f71b3][ExtensionHostConnection] <172> Starting WebSocket: RAW/api/kernels/172a1b5f-c6fb-4f84-84ef-d582dd5bca5a
+

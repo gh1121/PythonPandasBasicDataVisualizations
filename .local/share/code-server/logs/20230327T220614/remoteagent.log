@@ -1,0 +1,19 @@
+[2023-03-27 22:06:15.042] [remoteagent] [info] Installing extension: ms-toolsai.jupyter
+[2023-03-27 22:06:15.660] [remoteagent] [info] Getting Manifest... ms-toolsai.jupyter-renderers
+[2023-03-27 22:06:16.237] [remoteagent] [info] Getting Manifest... ms-toolsai.jupyter-keymap
+[2023-03-27 22:06:16.858] [remoteagent] [info] Installing extension: ms-toolsai.jupyter-renderers
+[2023-03-27 22:06:16.859] [remoteagent] [info] Installing extension: ms-toolsai.jupyter-keymap
+[2023-03-27 22:06:17.776] [remoteagent] [info] Downloaded extension: ms-toolsai.jupyter-keymap /root/.local/share/code-server/CachedExtensionVSIXs/ms-toolsai.jupyter-keymap-1.1.0-universal
+[2023-03-27 22:06:17.795] [remoteagent] [info] Extracted extension to /opt/.katacodacode/extensions/.1b1f3bc0-fcb8-4454-917f-4e4cd0a5264a: ms-toolsai.jupyter-keymap
+[2023-03-27 22:06:17.799] [remoteagent] [info] Renamed to /opt/.katacodacode/extensions/ms-toolsai.jupyter-keymap-1.1.0-universal
+[2023-03-27 22:06:17.801] [remoteagent] [info] Extracting completed. ms-toolsai.jupyter-keymap
+[2023-03-27 22:06:19.227] [remoteagent] [info] Downloaded extension: ms-toolsai.jupyter-renderers /root/.local/share/code-server/CachedExtensionVSIXs/ms-toolsai.jupyter-renderers-1.0.9-universal
+[2023-03-27 22:06:19.424] [remoteagent] [info] Extracted extension to /opt/.katacodacode/extensions/.d10bc5ef-c44b-4937-9f8e-5b2f8e2a36aa: ms-toolsai.jupyter-renderers
+[2023-03-27 22:06:19.428] [remoteagent] [info] Renamed to /opt/.katacodacode/extensions/ms-toolsai.jupyter-renderers-1.0.9-universal
+[2023-03-27 22:06:19.430] [remoteagent] [info] Extracting completed. ms-toolsai.jupyter-renderers
+[2023-03-27 22:06:20.403] [remoteagent] [info] Extracted extension to /opt/.katacodacode/extensions/.0605300a-31f7-4cf4-b2bb-761d21a988bc: ms-toolsai.jupyter
+[2023-03-27 22:06:20.411] [remoteagent] [info] Renamed to /opt/.katacodacode/extensions/ms-toolsai.jupyter-2022.9.1002511105
+[2023-03-27 22:06:20.431] [remoteagent] [info] Extracting completed. ms-toolsai.jupyter
+[2023-03-27 22:06:20.431] [remoteagent] [info] Extension installed successfully: ms-toolsai.jupyter-keymap
+[2023-03-27 22:06:20.431] [remoteagent] [info] Extension installed successfully: ms-toolsai.jupyter-renderers
+[2023-03-27 22:06:20.431] [remoteagent] [info] Extension installed successfully: ms-toolsai.jupyter
